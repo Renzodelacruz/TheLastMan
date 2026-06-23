@@ -1,0 +1,37 @@
+# Carpetas pesadas y temporales de Unity
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+Build/
+Builds/
+UserSettings/
+
+# Archivos de configuración de editores de código
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+.idea/
+.vscode/
+
+# Archivos de solución de Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db

@@ -1,0 +1,4618 @@
+-------------------
+Folder Name: Buildings
+-------------------
+Prefab Name: SM_Bld_Advanced_01
+    Mesh Name: SM_Bld_Advanced_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Advanced_02
+    Mesh Name: SM_Bld_Advanced_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Advanced_Doorway_01
+    Mesh Name: SM_Bld_Advanced_Doorway_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Background_Lrg_01
+    Mesh Name: SM_Bld_Background_Lrg_01
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Lrg_02
+    Mesh Name: SM_Bld_Background_Lrg_02
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Lrg_03
+    Mesh Name: SM_Bld_Background_Lrg_03
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Med_01
+    Mesh Name: SM_Bld_Background_Med_01
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Med_02
+    Mesh Name: SM_Bld_Background_Med_02
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Med_03
+    Mesh Name: SM_Bld_Background_Med_03
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Med_04
+    Mesh Name: SM_Bld_Background_Med_04
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Med_05
+    Mesh Name: SM_Bld_Background_Med_05
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Med_06
+    Mesh Name: SM_Bld_Background_Med_06
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Med_07
+    Mesh Name: SM_Bld_Background_Med_07
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Med_08
+    Mesh Name: SM_Bld_Background_Med_08
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Med_09
+    Mesh Name: SM_Bld_Background_Med_09
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Small_01
+    Mesh Name: SM_Bld_Background_Small_01
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Small_02
+    Mesh Name: SM_Bld_Background_Small_02
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Small_03
+    Mesh Name: SM_Bld_Background_Small_03
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Background_Small_04
+    Mesh Name: SM_Bld_Background_Small_04
+        Slot: PolygonSciFi_Buildings_Background (No Albedo Texture)
+
+Prefab Name: SM_Bld_Bank_01
+    Mesh Name: SM_Bld_Bank_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Bld_Bank_01_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+    Mesh Name: SM_Bld_Bank_Door_Bottom_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Bld_Bank_Door_Bottom_01_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+    Mesh Name: SM_Bld_Bank_Door_Top_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Bld_Bank_Door_Top_01_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+
+Prefab Name: SM_Bld_Chopshop_01
+    Mesh Name: SM_Bld_Chopshop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Chopshop_Interior_01
+    Mesh Name: SM_Bld_Chopshop_Interior_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_City_Wall_01
+    Mesh Name: SM_Bld_City_Wall_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_City_Wall_Tower_01
+    Mesh Name: SM_Bld_City_Wall_Tower_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_FoodHole_01
+    Mesh Name: SM_Bld_FoodHole_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Industrial_01
+    Mesh Name: SM_Bld_Industrial_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Industrial_02
+    Mesh Name: SM_Bld_Industrial_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_LandingPad_01
+    Mesh Name: SM_Bld_LandingPad_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_01
+    Mesh Name: SM_Bld_Large_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_02
+    Mesh Name: SM_Bld_Large_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_03
+    Mesh Name: SM_Bld_Large_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_04
+    Mesh Name: SM_Bld_Large_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_05
+    Mesh Name: SM_Bld_Large_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_06
+    Mesh Name: SM_Bld_Large_06
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_Part_01
+    Mesh Name: SM_Bld_Large_Part_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_Part_02
+    Mesh Name: SM_Bld_Large_Part_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_Part_03
+    Mesh Name: SM_Bld_Large_Part_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_Part_04
+    Mesh Name: SM_Bld_Large_Part_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_Part_05
+    Mesh Name: SM_Bld_Large_Part_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_Part_06
+    Mesh Name: SM_Bld_Large_Part_06
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_Part_07
+    Mesh Name: SM_Bld_Large_Part_07
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Large_Part_08
+    Mesh Name: SM_Bld_Large_Part_08
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Power_01
+    Mesh Name: SM_Bld_Power_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Power_02
+    Mesh Name: SM_Bld_Power_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Power_03
+    Mesh Name: SM_Bld_Power_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Power_04
+    Mesh Name: SM_Bld_Power_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Raised_01
+    Mesh Name: SM_Bld_Raised_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Raised_02
+    Mesh Name: SM_Bld_Raised_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Roof_Pagoda_01
+    Mesh Name: SM_Bld_Roof_Pagoda_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Roof_Pagoda_02
+    Mesh Name: SM_Bld_Roof_Pagoda_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Corner_01
+    Mesh Name: SM_Bld_Section_Corner_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Bld_Section_Corner_01_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+
+Prefab Name: SM_Bld_Section_Corner_02
+    Mesh Name: SM_Bld_Section_Corner_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Corner_03
+    Mesh Name: SM_Bld_Section_Corner_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Door_01
+    Mesh Name: SM_Bld_Section_Door_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Door_02
+    Mesh Name: SM_Bld_Section_Door_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Door_03
+    Mesh Name: SM_Bld_Section_Door_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Door_04
+    Mesh Name: SM_Bld_Section_Door_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Bld_Section_Door_04_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+
+Prefab Name: SM_Bld_Section_Door_05
+    Mesh Name: SM_Bld_Section_Door_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Bld_Section_Door_05_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+
+Prefab Name: SM_Bld_Section_Door_06
+    Mesh Name: SM_Bld_Section_Door_06
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Door_07
+    Mesh Name: SM_Bld_Section_Door_07
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Bld_Section_Door_07_Door
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Bld_Section_Door_07_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+
+Prefab Name: SM_Bld_Section_Grid_01
+    Mesh Name: SM_Bld_Section_Grid_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Industrial_01
+    Mesh Name: SM_Bld_Section_Industrial_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Industrial_02
+    Mesh Name: SM_Bld_Section_Industrial_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Industrial_03
+    Mesh Name: SM_Bld_Section_Industrial_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Wall_01
+    Mesh Name: SM_Bld_Section_Wall_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Wall_02
+    Mesh Name: SM_Bld_Section_Wall_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Wall_03
+    Mesh Name: SM_Bld_Section_Wall_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Wall_04
+    Mesh Name: SM_Bld_Section_Wall_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Wall_05
+    Mesh Name: SM_Bld_Section_Wall_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Window_01
+    Mesh Name: SM_Bld_Section_Window_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Window_02
+    Mesh Name: SM_Bld_Section_Window_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Window_03
+    Mesh Name: SM_Bld_Section_Window_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Section_Window_04
+    Mesh Name: SM_Bld_Section_Window_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Security_WatchStation_01
+    Mesh Name: SM_Bld_Security_WatchStation_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Bld_Security_WatchStation_01_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+
+Prefab Name: SM_Bld_Shop_Open_01
+    Mesh Name: SM_Bld_Shop_Open_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_StripClub_01
+    Mesh Name: SM_Bld_StripClub_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_StripClub_Interior_01
+    Mesh Name: SM_Bld_StripClub_Interior_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+    Mesh Name: SM_HologramPods_01
+        Slot: PolygonScifi_Hologram_Outline (No Albedo Texture)
+    Mesh Name: SM_Prop_Door_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Door_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Door_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Door_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Door_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_StripClub_Interior_02
+    Mesh Name: SM_Bld_StripClub_Interior_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_StripClub_Interior_03
+    Mesh Name: SM_Bld_StripClub_Interior_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Underpass_01
+    Mesh Name: SM_Bld_Underpass_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Bld_Warehouse_01
+    Mesh Name: SM_Bld_Warehouse_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Bld_Warehouse_Door_Bottom_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Bld_Warehouse_Door_Bottom_Glass_01
+        Slot: Glass_01_A (No Albedo Texture)
+    Mesh Name: SM_Bld_Warehouse_Door_Glass_01
+        Slot: Glass_01_A (No Albedo Texture)
+    Mesh Name: SM_Bld_Warehouse_Door_Top_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Building_Shack_01
+    Mesh Name: SM_Building_Shack_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Building_Shack_02
+    Mesh Name: SM_Building_Shack_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+-------------------
+Folder Name: Characters
+-------------------
+Prefab Name: Character_Alien_Male_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Alien_Male_02
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Android_Female_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Augmented_Male_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Cop_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_CyberPunk_Male_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Cyber_Female_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_D (PolygonScifi_01_D)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Cyber_Male_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_D (PolygonScifi_01_D)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_CyborgNinja_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Garbage_Male_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Hacker_Female_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Hologram_Female_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Junky_Female_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Junky_Male_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Medical_Male_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Monk_Male_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Muscle_Male_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Rich_Female_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Rich_Male_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Robot_01
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: Default-Material (No Albedo Texture)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+-------------------
+Folder Name: Environments
+-------------------
+Prefab Name: SkyDome
+    Mesh Name: SkyDome
+        Slot: SimpleSky (Uses custom shader)
+    Mesh Name: Moon 1
+        Slot: SimpleSky (Uses custom shader)
+    Mesh Name: Stars
+        Slot: SimpleSky (Uses custom shader)
+    Mesh Name: Sun 1
+        Slot: SimpleSky (Uses custom shader)
+
+Prefab Name: SM_Env_Ceiling_01
+    Mesh Name: SM_Env_Ceiling_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Cloud_01
+    Mesh Name: SM_Env_Cloud_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Cloud_02
+    Mesh Name: SM_Env_Cloud_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Cloud_03
+    Mesh Name: SM_Env_Cloud_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Cloud_04
+    Mesh Name: SM_Env_Cloud_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Cloud_05
+    Mesh Name: SM_Env_Cloud_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Dirt_Mound_Small_01
+    Mesh Name: SM_Env_Dirt_Mound_Small_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Dirt_Mound_Small_02
+    Mesh Name: SM_Env_Dirt_Mound_Small_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Floor_01
+    Mesh Name: SM_Env_Floor_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Graffiti_Ground_01
+    Mesh Name: SM_Env_Graffiti_Ground_01
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Env_Graffiti_Ground_02
+    Mesh Name: SM_Env_Graffiti_Ground_02
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Env_Graffiti_Ground_03
+    Mesh Name: SM_Env_Graffiti_Ground_03
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Env_Graffiti_Ground_04
+    Mesh Name: SM_Env_Graffiti_Ground_04
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Env_Graffiti_Ground_05
+    Mesh Name: SM_Env_Graffiti_Ground_05
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Env_Graffiti_Wall_01
+    Mesh Name: SM_Env_Graffiti_Wall_01
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Env_Graffiti_Wall_02
+    Mesh Name: SM_Env_Graffiti_Wall_02
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Env_Graffiti_Wall_03
+    Mesh Name: SM_Env_Graffiti_Wall_03
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Env_Graffiti_Wall_04
+    Mesh Name: SM_Env_Graffiti_Wall_04
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Env_Graffiti_Wall_05
+    Mesh Name: SM_Env_Graffiti_Wall_05
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Env_Grass_Patch_01
+    Mesh Name: SM_Env_Grass_Patch_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Grass_Patch_02
+    Mesh Name: SM_Env_Grass_Patch_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Grass_Patch_03
+    Mesh Name: SM_Env_Grass_Patch_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Greeble_Cube_01
+    Mesh Name: SM_Env_Greeble_Cube_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Greeble_Cube_02
+    Mesh Name: SM_Env_Greeble_Cube_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_01
+    Mesh Name: SM_Env_Ground_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Flat_01
+    Mesh Name: SM_Env_Ground_Flat_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_01
+    Mesh Name: SM_Env_Ground_Tile_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_02
+    Mesh Name: SM_Env_Ground_Tile_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_03
+    Mesh Name: SM_Env_Ground_Tile_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_04
+    Mesh Name: SM_Env_Ground_Tile_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_05
+    Mesh Name: SM_Env_Ground_Tile_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_06
+    Mesh Name: SM_Env_Ground_Tile_06
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_07
+    Mesh Name: SM_Env_Ground_Tile_07
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_08
+    Mesh Name: SM_Env_Ground_Tile_08
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_09
+    Mesh Name: SM_Env_Ground_Tile_09
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Base_01
+    Mesh Name: SM_Env_Ground_Tile_Base_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Base_02
+    Mesh Name: SM_Env_Ground_Tile_Base_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Base_03
+    Mesh Name: SM_Env_Ground_Tile_Base_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Base_04
+    Mesh Name: SM_Env_Ground_Tile_Base_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Floating_Platform_01
+    Mesh Name: SM_Env_Ground_Tile_Floating_Platform_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Half_01
+    Mesh Name: SM_Env_Ground_Tile_Half_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Half_02
+    Mesh Name: SM_Env_Ground_Tile_Half_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Half_03
+    Mesh Name: SM_Env_Ground_Tile_Half_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Half_04
+    Mesh Name: SM_Env_Ground_Tile_Half_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Half_05
+    Mesh Name: SM_Env_Ground_Tile_Half_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Supports_01
+    Mesh Name: SM_Env_Ground_Tile_Supports_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Supports_02
+    Mesh Name: SM_Env_Ground_Tile_Supports_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ground_Tile_Tube_01
+    Mesh Name: SM_Env_Ground_Tile_Tube_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Hedge_01
+    Mesh Name: SM_Env_Hedge_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Hedge_02
+    Mesh Name: SM_Env_Hedge_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Hedge_03
+    Mesh Name: SM_Env_Hedge_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Hedge_Empty_01
+    Mesh Name: SM_Env_Hedge_Empty_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Hedge_Empty_02
+    Mesh Name: SM_Env_Hedge_Empty_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Hedge_Empty_03
+    Mesh Name: SM_Env_Hedge_Empty_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Living_Dome_Skybox_01
+    Mesh Name: SM_Env_Living_Dome_Skybox_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Ocean_Tile_Bumps_01
+    Mesh Name: SM_Env_Ocean_Tile_Bumps_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Planet_Rotate_Object_01
+    Mesh Name: SM_Env_Planet_Plane_01
+        Slot: Planet_Material_01 (Planet_Texure_01)
+
+Prefab Name: SM_Env_Planet_Rotate_Object_02
+    Mesh Name: SM_Env_Planet_Plane_02
+        Slot: Planet_Material_02 (Planet_Texure_02)
+
+Prefab Name: SM_Env_Railing_01
+    Mesh Name: SM_Env_Railing_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Railing_01_Pillar
+    Mesh Name: SM_Env_Railing_01_Pillar
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Railing_02
+    Mesh Name: SM_Env_Railing_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Railing_02_Pillar
+    Mesh Name: SM_Env_Railing_02_Pillar
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Road_Arrow_01_SF
+    Mesh Name: SM_Env_Road_Arrow_01_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Arrow_02_SF
+    Mesh Name: SM_Env_Road_Arrow_02_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Bare_Half_01_SF
+    Mesh Name: SM_Env_Road_Bare_Half_01_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Crossing_01_SF
+    Mesh Name: SM_Env_Road_Crossing_01_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Crossing_02_SF
+    Mesh Name: SM_Env_Road_Crossing_02_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Lines_01_Corner_01
+    Mesh Name: SM_Env_Road_Lines_01_Corner_01
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Lines_01_Corner_02
+    Mesh Name: SM_Env_Road_Lines_01_Corner_02
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Lines_01_SF
+    Mesh Name: SM_Env_Road_Lines_01_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Lines_02_Corner_01
+    Mesh Name: SM_Env_Road_Lines_02_Corner_01
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Lines_02_Corner_02
+    Mesh Name: SM_Env_Road_Lines_02_Corner_02
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Lines_02_SF
+    Mesh Name: SM_Env_Road_Lines_02_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Median_01_SF
+    Mesh Name: SM_Env_Road_Median_01_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Median_02_SF
+    Mesh Name: SM_Env_Road_Median_02_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_ParkingLines_01_SF
+    Mesh Name: SM_Env_Road_ParkingLines_01_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_Patch_01_SF
+    Mesh Name: SM_Env_Road_Patch_01_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Road_YellowLines_01_SF
+    Mesh Name: SM_Env_Road_YellowLines_01_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Road_YellowLines_02_SF
+    Mesh Name: SM_Env_Road_YellowLines_02_SF
+        Slot: Road (Uses custom shader)
+
+Prefab Name: SM_Env_Sidewalk_01_SF
+    Mesh Name: SM_Env_Sidewalk_01_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_03_SF
+    Mesh Name: SM_Env_Sidewalk_03_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_01_SF
+    Mesh Name: SM_Env_Sidewalk_Corner_01_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_02_SF
+    Mesh Name: SM_Env_Sidewalk_Corner_02_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_Half_01 1
+    Mesh Name: SM_Env_Sidewalk_Corner_Half_01 1
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_Half_01
+    Mesh Name: SM_Env_Sidewalk_Corner_Half_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Corner_Half_01_SF
+    Mesh Name: SM_Env_Sidewalk_Corner_Half_01_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Grate_02_SF
+    Mesh Name: SM_Env_Sidewalk_Grate_02_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Merger_01_SF
+    Mesh Name: SM_Env_Sidewalk_Merger_01_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Merger_02_SF
+    Mesh Name: SM_Env_Sidewalk_Merger_02_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Merger_Half_01_SF
+    Mesh Name: SM_Env_Sidewalk_Merger_Half_01_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Panel_01_SF
+    Mesh Name: SM_Env_Sidewalk_Panel_01_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Raised_01
+    Mesh Name: SM_Env_Sidewalk_Raised_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Raised_02
+    Mesh Name: SM_Env_Sidewalk_Raised_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Straight_01_SF
+    Mesh Name: SM_Env_Sidewalk_Straight_01_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Straight_02_SF
+    Mesh Name: SM_Env_Sidewalk_Straight_02_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Straight_03_SF
+    Mesh Name: SM_Env_Sidewalk_Straight_03_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Straight_04_SF
+    Mesh Name: SM_Env_Sidewalk_Straight_04_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Sidewalk_Straight_Half_01_SF
+    Mesh Name: SM_Env_Sidewalk_Straight_Half_01_SF
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Small_Rocks_01
+    Mesh Name: SM_Env_Small_Rocks_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Small_Rocks_02
+    Mesh Name: SM_Env_Small_Rocks_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_TreeDead_01
+    Mesh Name: SM_Env_TreeDead_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Tree_01
+    Mesh Name: SM_Env_Tree_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Tree_02
+    Mesh Name: SM_Env_Tree_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Tree_03
+    Mesh Name: SM_Env_Tree_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Env_Wall_Generic_01
+    Mesh Name: SM_Env_Wall_Generic_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+-------------------
+Folder Name: FX
+-------------------
+Prefab Name: Exhaust_Trail
+    Mesh Name: Exhaust_Trail
+        Slot: FX_Blank (Uses custom shader)
+        Slot: FX_Blank (Uses custom shader)
+
+Prefab Name: Fire_01_FX
+    Mesh Name: Fire_01_FX
+        Slot: Polygon_Scifi_FX (Uses custom shader)
+
+Prefab Name: Fire_02_FX
+    Mesh Name: Fire_02_FX
+        Slot: Polygon_Scifi_FX (Uses custom shader)
+
+Prefab Name: FX_Beacon
+    Mesh Name: FX_Beacon
+        Slot: FX_Sphere (Uses custom shader)
+        Slot: FX_Sphere (Uses custom shader)
+
+Prefab Name: FX_Blackhole
+    Mesh Name: FX_Blackhole
+        Slot: FX_Black (Circle_Dashes)
+        Slot: FX_Black (Circle_Dashes)
+    Mesh Name: FX_Blackhole_Edge
+        Slot: FX_Blackhole (SphereGlow)
+        Slot: FX_Blackhole (SphereGlow)
+    Mesh Name: FX_Blackhole_Dots
+        Slot: FX_SphereGlow (Uses custom shader)
+
+Prefab Name: FX_Electricity
+    Mesh Name: FX_Electricity
+        Slot: FX_Lighting (Uses custom shader)
+        Slot: FX_Lighting (Uses custom shader)
+
+Prefab Name: FX_Flame
+    Mesh Name: FX_Flame
+        Slot: FX_Blackhole (SphereGlow)
+
+Prefab Name: FX_Flame_Booster
+    Mesh Name: FX_Flame_Booster
+        Slot: PolygonSciFi_Halo_D 1 (Uses custom shader)
+        Slot: PolygonSciFi_Halo_D 1 (Uses custom shader)
+
+Prefab Name: FX_Hologram_Base
+    Mesh Name: FX_Hologram_Base
+        Slot: FX_Circle_Dash (Uses custom shader)
+        Slot: FX_Circle_Dash (Uses custom shader)
+    Mesh Name: FX_Hologram_Base_Spikes
+        Slot: FX_SphereGlow (Uses custom shader)
+        Slot: FX_SphereGlow (Uses custom shader)
+    Mesh Name: FX_Hologram_Base_Dots
+        Slot: FX_SphereGlow (Uses custom shader)
+        Slot: FX_SphereGlow (Uses custom shader)
+    Mesh Name: Particle System
+        Slot: FX_Sphere (Uses custom shader)
+        Slot: FX_Sphere (Uses custom shader)
+
+Prefab Name: FX_Laser_Bullet
+    Mesh Name: FX_Laser_Bullet
+        Slot: FX_Bullets_Laser (Uses custom shader)
+        Slot: FX_Bullets_Laser (Uses custom shader)
+    Mesh Name: FX_Laser_Bullet_Impact
+        Slot: FX_MuzzleFlash (Uses custom shader)
+        Slot: FX_MuzzleFlash (Uses custom shader)
+
+Prefab Name: FX_Laser_Shot
+    Mesh Name: FX_Laser_Shot
+        Slot: FX_MuzzleFlash (Uses custom shader)
+        Slot: FX_MuzzleFlash (Uses custom shader)
+
+Prefab Name: FX_Laser_Shotgun
+    Mesh Name: FX_Laser_Shotgun
+        Slot: FX_Lighting (Uses custom shader)
+        Slot: FX_Lighting (Uses custom shader)
+
+Prefab Name: FX_LightRayCube
+    Mesh Name: SM_LightRay_Cube
+        Slot: FX_LightRay (Uses custom shader)
+
+Prefab Name: FX_RingLight
+    Mesh Name: FX_RingLight
+        Slot: Default-Particle (Uses custom shader)
+
+Prefab Name: FX_Steam
+    Mesh Name: FX_Steam
+        Slot: Steam_Mat (Uses custom shader)
+
+Prefab Name: Rain_FX
+    Mesh Name: Rain_FX
+        Slot: Polygon_Scifi_RainWater_Mat (No Albedo Texture)
+    Mesh Name: FX_RainDrops
+        Slot: Polygon_Scifi_RainWater_Mat (No Albedo Texture)
+
+Prefab Name: Smoke_Drift_FX
+    Mesh Name: Smoke_Drift_FX
+        Slot: Polygon_Scifi_Smoke_Particle (Uses custom shader)
+
+Prefab Name: Smoke_Small_Light_FX
+    Mesh Name: Smoke_Small_Light_FX
+        Slot: FX_Blank (Uses custom shader)
+        Slot: FX_Blank (Uses custom shader)
+
+-------------------
+Folder Name: Icons
+-------------------
+Prefab Name: SM_Icon_Ammo
+    Mesh Name: SM_Icon_Ammo
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Icon_Gun
+    Mesh Name: SM_Icon_Gun
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Icon_Health
+    Mesh Name: SM_Icon_Health
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Icon_Lightning
+    Mesh Name: SM_Icon_Lightning
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Icon_Spanners
+    Mesh Name: SM_Icon_Spanners
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+-------------------
+Folder Name: Props
+-------------------
+Prefab Name: SM_Prop_Advertisement_Pillar_01
+    Mesh Name: SM_Prop_Advertisement_Pillar_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_AirConditioningGrid_01
+    Mesh Name: SM_Prop_AirConditioningGrid_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_AirConditioningUnit_01
+    Mesh Name: SM_Prop_AirConditioningUnit_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_AirConditioningUnit_02
+    Mesh Name: SM_Prop_AirConditioningUnit_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Antenna
+    Mesh Name: SM_Prop_Antenna
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Atm_01
+    Mesh Name: SM_Prop_Atm_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Bank_Booth_01
+    Mesh Name: SM_Prop_Bank_Booth_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Bank_Booth_01_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+
+Prefab Name: SM_Prop_Bank_Booth_Pillar_01
+    Mesh Name: SM_Prop_Bank_Booth_Pillar_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Bank_Door_01
+    Mesh Name: SM_Prop_Bank_Door_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Bank_Door_Left_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Bank_Door_Right_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_BarChair_01
+    Mesh Name: SM_Prop_BarChair_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Barrier_01
+    Mesh Name: SM_Prop_Barrier_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Barrier_02
+    Mesh Name: SM_Prop_Barrier_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Barrier_03
+    Mesh Name: SM_Prop_Barrier_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Barrier_line_01
+    Mesh Name: SM_Prop_Barrier_line_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Barrier_Plastic_01
+    Mesh Name: SM_Prop_Barrier_Plastic_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Barrier_Plastic_02
+    Mesh Name: SM_Prop_Barrier_Plastic_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Barrier_Plastic_03
+    Mesh Name: SM_Prop_Barrier_Plastic_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Barrier_Pole_01
+    Mesh Name: SM_Prop_Barrier_Pole_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Beams_01
+    Mesh Name: SM_Prop_Beams_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Beam_01
+    Mesh Name: SM_Prop_Beam_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Beam_02
+    Mesh Name: SM_Prop_Beam_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_BenchSeat_01
+    Mesh Name: SM_Prop_BenchSeat_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Bench_01
+    Mesh Name: SM_Prop_Bench_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Books_01
+    Mesh Name: SM_Prop_Books_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Bottles_01
+    Mesh Name: SM_Prop_Bottles_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Bottle_01
+    Mesh Name: SM_Prop_Bottle_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Bottle_02
+    Mesh Name: SM_Prop_Bottle_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Bottle_03
+    Mesh Name: SM_Prop_Bottle_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Box_Empty_01
+    Mesh Name: SM_Prop_Box_Empty_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Box_RobotParts_01
+    Mesh Name: SM_Prop_Box_RobotParts_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Box_Supplies_01
+    Mesh Name: SM_Prop_Box_Supplies_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Bridge_01
+    Mesh Name: SM_Prop_Bridge_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cables_01
+    Mesh Name: SM_Prop_Cables_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cables_02
+    Mesh Name: SM_Prop_Cables_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cables_03
+    Mesh Name: SM_Prop_Cables_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cables_Ceiling_01
+    Mesh Name: SM_Prop_Cables_Ceiling_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cable_Crossing_Machine_01
+    Mesh Name: SM_Prop_Cable_Crossing_Machine_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cable_Crossing_Pillar_01
+    Mesh Name: SM_Prop_Cable_Crossing_Pillar_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cable_Crossing_Rail_01
+    Mesh Name: SM_Prop_Cable_Crossing_Rail_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cage_01
+    Mesh Name: SM_Prop_Cage_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cage_02
+    Mesh Name: SM_Prop_Cage_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cage_03
+    Mesh Name: SM_Prop_Cage_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Carpet_Mat_01
+    Mesh Name: SM_Prop_Carpet_Mat_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Chain_01
+    Mesh Name: SM_Prop_Chain_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Chain_02
+    Mesh Name: SM_Prop_Chain_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Chain_03
+    Mesh Name: SM_Prop_Chain_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_ChargingStation_01
+    Mesh Name: SM_Prop_ChargingStation_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cog_01
+    Mesh Name: SM_Prop_Cog_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cog_02
+    Mesh Name: SM_Prop_Cog_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_ControlPanel_01
+    Mesh Name: SM_Prop_ControlPanel_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_ControlPanel_02
+    Mesh Name: SM_Prop_ControlPanel_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Couch_01
+    Mesh Name: SM_Prop_Couch_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Crate_01
+    Mesh Name: SM_Prop_Crate_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Crate_01_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Crate_02
+    Mesh Name: SM_Prop_Crate_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Crate_02_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Crate_03
+    Mesh Name: SM_Prop_Crate_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Crate_04
+    Mesh Name: SM_Prop_Crate_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Crate_Large_01
+    Mesh Name: SM_Prop_Crate_Large_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Crate_Military_01
+    Mesh Name: SM_Prop_Crate_Military_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Crate_Military_01_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Crate_Military_02
+    Mesh Name: SM_Prop_Crate_Military_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Crate_Military_02_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Crate_Military_03
+    Mesh Name: SM_Prop_Crate_Military_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Crate_Military_03_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cylinder_01
+    Mesh Name: SM_Prop_Cylinder_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Cylinder_01_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Cylinder_02
+    Mesh Name: SM_Prop_Cylinder_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_DeadZub_01
+    Mesh Name: SM_Prop_DeadZub_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_DeadZub_02
+    Mesh Name: SM_Prop_DeadZub_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_DeadZub_03
+    Mesh Name: SM_Prop_DeadZub_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_DeadZub_04
+    Mesh Name: SM_Prop_DeadZub_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Detail_01
+    Mesh Name: SM_Prop_Detail_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Disc_01
+    Mesh Name: SM_Prop_Disc_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Door_01
+    Mesh Name: SM_Prop_Door_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Door_02
+    Mesh Name: SM_Prop_Door_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Door_03
+    Mesh Name: SM_Prop_Door_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Door_03_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+
+Prefab Name: SM_Prop_Door_04
+    Mesh Name: SM_Prop_Door_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Door_05
+    Mesh Name: SM_Prop_Door_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Door_Chopshop_01
+    Mesh Name: SM_Prop_Door_Chopshop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Drone_01
+    Mesh Name: SM_Prop_Drone_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Drone_02
+    Mesh Name: SM_Prop_Drone_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Drone_Ball_01
+    Mesh Name: SM_Prop_Drone_Ball_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Drone_Insect_01
+    Mesh Name: SM_Prop_Drone_Insect_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Drone_Quad_01
+    Mesh Name: SM_Prop_Drone_Quad_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Dumpster_01
+    Mesh Name: SM_Prop_Dumpster_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Dumpster_01_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Fence_01
+    Mesh Name: SM_Prop_Fence_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Flags_01
+    Mesh Name: SM_Prop_Flags_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_FoodTray_01
+    Mesh Name: SM_Prop_FoodTray_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_FoodTray_02
+    Mesh Name: SM_Prop_FoodTray_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_FoodTray_03
+    Mesh Name: SM_Prop_FoodTray_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_FoodTray_04
+    Mesh Name: SM_Prop_FoodTray_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Food_01
+    Mesh Name: SM_Prop_Food_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Glass_01
+    Mesh Name: SM_Prop_Glass_01
+        Slot: Glass_01_A (No Albedo Texture)
+    Mesh Name: SM_Prop_Drink_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Glass_02
+    Mesh Name: SM_Prop_Glass_02
+        Slot: Glass_01_A (No Albedo Texture)
+    Mesh Name: SM_Prop_Drink_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Hologram_Bottle_01
+    Mesh Name: SM_Prop_Hologram_Bottle_01
+        Slot: PolygonScifi_Hologram_Base (Uses custom shader)
+    Mesh Name: SM_Prop_Bottle_01_Outline
+        Slot: PolygonScifi_Hologram_Outline (No Albedo Texture)
+
+Prefab Name: SM_Prop_Hologram_Bottle_02
+    Mesh Name: SM_Prop_Hologram_Bottle_02
+        Slot: PolygonScifi_Hologram_Base (Uses custom shader)
+    Mesh Name: SM_Prop_Bottle_02_Outline
+        Slot: PolygonScifi_Hologram_Outline (No Albedo Texture)
+
+Prefab Name: SM_Prop_Hologram_Bottle_03
+    Mesh Name: SM_Prop_Hologram_Bottle_03
+        Slot: PolygonScifi_Hologram_Base (Uses custom shader)
+    Mesh Name: SM_Prop_Bottle_03_Outline
+        Slot: PolygonScifi_Hologram_Outline (No Albedo Texture)
+
+Prefab Name: SM_Prop_Hologram_Burger_03
+    Mesh Name: SM_Prop_Hologram_Burger_03
+        Slot: PolygonScifi_Hologram_Base (Uses custom shader)
+    Mesh Name: SM_Prop_LargeSign_Burger_03_Outline
+        Slot: PolygonScifi_Hologram_Outline (No Albedo Texture)
+
+Prefab Name: SM_Prop_Hologram_Noodles_01
+    Mesh Name: SM_Prop_Hologram_Noodles_01
+        Slot: PolygonScifi_Hologram_Base (Uses custom shader)
+    Mesh Name: SM_Prop_LargeSign_Noodles_01_Outline
+        Slot: PolygonScifi_Hologram_Outline (No Albedo Texture)
+
+Prefab Name: SM_Prop_Hologram_Pizza_01
+    Mesh Name: SM_Prop_Hologram_Pizza_01
+        Slot: PolygonScifi_Hologram_Base (Uses custom shader)
+    Mesh Name: SM_Prop_LargeSign_Pizza_01_Outline
+        Slot: PolygonScifi_Hologram_Outline (No Albedo Texture)
+
+Prefab Name: SM_Prop_JarFull_01
+    Mesh Name: SM_Prop_JarFull_01
+        Slot: Glass_01_Jar (No Albedo Texture)
+    Mesh Name: SM_Prop_Jar_01_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_JarLiquid_01
+        Slot: Glass_01_Jar (No Albedo Texture)
+    Mesh Name: SM_Prop_DeadZub_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_JarLiquid_02
+        Slot: Glass_01_Jar (No Albedo Texture)
+
+Prefab Name: SM_Prop_Jar_01
+    Mesh Name: SM_Prop_Jar_01
+        Slot: Glass_01_Jar (No Albedo Texture)
+    Mesh Name: SM_Prop_Jar_01_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Jar_02
+    Mesh Name: SM_Prop_Jar_02
+        Slot: Glass_01_Jar (No Albedo Texture)
+    Mesh Name: SM_Prop_Jar_02_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Jar_03
+    Mesh Name: SM_Prop_Jar_03
+        Slot: Glass_01_Jar (No Albedo Texture)
+    Mesh Name: SM_Prop_Jar_03_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Jar_04
+    Mesh Name: SM_Prop_Jar_04
+        Slot: Glass_01_Jar (No Albedo Texture)
+    Mesh Name: SM_Prop_Jar_04_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Jar_Hanging_01
+    Mesh Name: SM_Prop_Jar_Hanging_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Jar_Hanging_01_Glass
+        Slot: Glass_01_Jar (No Albedo Texture)
+
+Prefab Name: SM_Prop_LightBar_01
+    Mesh Name: SM_Prop_LightBar_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketCovcer_02
+    Mesh Name: SM_Prop_MarketCovcer_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketCover_01
+    Mesh Name: SM_Prop_MarketCover_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketCover_02
+    Mesh Name: SM_Prop_MarketCover_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketCover_03
+    Mesh Name: SM_Prop_MarketCover_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketCover_04
+    Mesh Name: SM_Prop_MarketCover_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketCover_05
+    Mesh Name: SM_Prop_MarketCover_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketLights_01
+    Mesh Name: SM_Prop_MarketLights_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketLights_02
+    Mesh Name: SM_Prop_MarketLights_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketTable_01
+    Mesh Name: SM_Prop_MarketTable_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketTable_02
+    Mesh Name: SM_Prop_MarketTable_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketTable_03
+    Mesh Name: SM_Prop_MarketTable_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketTable_04
+    Mesh Name: SM_Prop_MarketTable_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_MarketTable_05
+    Mesh Name: SM_Prop_MarketTable_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Meat_01
+    Mesh Name: SM_Prop_Meat_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Meat_02
+    Mesh Name: SM_Prop_Meat_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Meat_03
+    Mesh Name: SM_Prop_Meat_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Medical_Chair_01
+    Mesh Name: SM_Prop_Medical_Chair_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Medical_Machine_01
+    Mesh Name: SM_Prop_Medical_Machine_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Medical_Stool_01
+    Mesh Name: SM_Prop_Medical_Stool_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Medical_Table_01
+    Mesh Name: SM_Prop_Medical_Table_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Meter_01
+    Mesh Name: SM_Prop_Meter_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Monitor_01
+    Mesh Name: SM_Prop_Monitor_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Monitor_01_Screen
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Monitor_02
+    Mesh Name: SM_Prop_Monitor_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Monitor_02_Screen
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Monitor_03
+    Mesh Name: SM_Prop_Monitor_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Monitor_03_Screen
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Noodles_01
+    Mesh Name: SM_Prop_Noodles_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Office_Chair_01
+    Mesh Name: SM_Prop_Office_Chair_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Overhang_01
+    Mesh Name: SM_Prop_Overhang_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Overhang_02
+    Mesh Name: SM_Prop_Overhang_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Pad_01
+    Mesh Name: SM_Prop_Pad_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Pad_Screen_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Paper_Banner_01
+    Mesh Name: SM_Prop_Paper_Banner_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Paper_Lantern_01
+    Mesh Name: SM_Prop_Paper_Lantern_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Paper_Lantern_02
+    Mesh Name: SM_Prop_Paper_Lantern_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Pillar_01
+    Mesh Name: SM_Prop_Pillar_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Pillar_02
+    Mesh Name: SM_Prop_Pillar_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Pillar_03
+    Mesh Name: SM_Prop_Pillar_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Pillar_04
+    Mesh Name: SM_Prop_Pillar_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Pipes_01
+    Mesh Name: SM_Prop_Pipes_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Pipes_02
+    Mesh Name: SM_Prop_Pipes_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Pipes_03
+    Mesh Name: SM_Prop_Pipes_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Plant_Vase_01
+    Mesh Name: SM_Prop_Plant_Vase_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Plant_Vase_02
+    Mesh Name: SM_Prop_Plant_Vase_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Posters_01
+    Mesh Name: SM_Prop_Posters_01
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Prop_Posters_02
+    Mesh Name: SM_Prop_Posters_02
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Prop_Posters_03
+    Mesh Name: SM_Prop_Posters_03
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Prop_Powerpoll_01
+    Mesh Name: SM_Prop_Powerpoll_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Powerpoll_02
+    Mesh Name: SM_Prop_Powerpoll_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Robotic_Part_01
+    Mesh Name: SM_Prop_Robotic_Part_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Robotic_Part_010
+    Mesh Name: SM_Prop_Robotic_Part_010
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Robotic_Part_011
+    Mesh Name: SM_Prop_Robotic_Part_011
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Robotic_Part_02
+    Mesh Name: SM_Prop_Robotic_Part_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Robotic_Part_03
+    Mesh Name: SM_Prop_Robotic_Part_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Robotic_Part_04
+    Mesh Name: SM_Prop_Robotic_Part_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Robotic_Part_05
+    Mesh Name: SM_Prop_Robotic_Part_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Robotic_Part_06
+    Mesh Name: SM_Prop_Robotic_Part_06
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Robotic_Part_07
+    Mesh Name: SM_Prop_Robotic_Part_07
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Robotic_Part_08
+    Mesh Name: SM_Prop_Robotic_Part_08
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Robotic_Part_09
+    Mesh Name: SM_Prop_Robotic_Part_09
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_RubbishPile_01
+    Mesh Name: SM_Prop_RubbishPile_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_RubbishPile_02
+    Mesh Name: SM_Prop_RubbishPile_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_RubbishPile_03
+    Mesh Name: SM_Prop_RubbishPile_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Bin_01
+    Mesh Name: SM_Prop_Rubbish_Bin_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Rubbish_Bin_01_Lid
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Paper_01
+    Mesh Name: SM_Prop_Rubbish_Paper_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Paper_02
+    Mesh Name: SM_Prop_Rubbish_Paper_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Paper_03
+    Mesh Name: SM_Prop_Rubbish_Paper_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Rubbish_Paper_04
+    Mesh Name: SM_Prop_Rubbish_Paper_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_SatDish_01
+    Mesh Name: SM_Prop_SatDish_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_SatDish_02
+    Mesh Name: SM_Prop_SatDish_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_SatDish_03
+    Mesh Name: SM_Prop_SatDish_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_SatDish_Base_01
+    Mesh Name: SM_Prop_SatDish_Base_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_SatDish_Attach_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Scanner_01
+    Mesh Name: SM_Prop_Scanner_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_SciFi_Pad_01
+    Mesh Name: SM_Prop_SciFi_Pad_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Security_Camera_01
+    Mesh Name: SM_Prop_Security_Camera_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Security_Camera_01_Top
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Security_Camera_02
+    Mesh Name: SM_Prop_Security_Camera_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Security_Camera_02_Top
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Security_Monitor_01
+    Mesh Name: SM_Prop_Security_Monitor_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Security_Scanner_01
+    Mesh Name: SM_Prop_Security_Scanner_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Shelf_01
+    Mesh Name: SM_Prop_Shelf_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Shelf_Preset_01
+    Mesh Name: SM_Prop_Shelf_Preset_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Shelf_Wall_01
+    Mesh Name: SM_Prop_Shelf_Wall_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Shelf_Wall_Preset_01
+    Mesh Name: SM_Prop_Shelf_Wall_Preset_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Shelf_Wall_Preset_02
+    Mesh Name: SM_Prop_Shelf_Wall_Preset_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Shelf_Wall_Preset_03
+    Mesh Name: SM_Prop_Shelf_Wall_Preset_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Shelves_01
+    Mesh Name: SM_Prop_Shelves_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Shield_Bubble_01
+    Mesh Name: SM_Prop_Shield_Bubble_01
+        Slot: Shield_Bubble (Uses custom shader)
+
+Prefab Name: SM_Prop_Sidewalk_Barrier_01
+    Mesh Name: SM_Prop_Sidewalk_Barrier_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Sidewalk_Panel_01
+    Mesh Name: SM_Prop_Sidewalk_Panel_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Sidewalk_Panel_02
+    Mesh Name: SM_Prop_Sidewalk_Panel_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Sidewalk_Panel_03
+    Mesh Name: SM_Prop_Sidewalk_Panel_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Sidewalk_Panel_04
+    Mesh Name: SM_Prop_Sidewalk_Panel_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Sidewalk_Panel_05
+    Mesh Name: SM_Prop_Sidewalk_Panel_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Sidewalk_Panel_06
+    Mesh Name: SM_Prop_Sidewalk_Panel_06
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Sidewalk_Pipe_01
+    Mesh Name: SM_Prop_Sidewalk_Pipe_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Sidewalk_Pipe_02
+    Mesh Name: SM_Prop_Sidewalk_Pipe_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Sidewalk_Rubble_01
+    Mesh Name: SM_Prop_Sidewalk_Rubble_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Spanner_01
+    Mesh Name: SM_Prop_Spanner_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Stool_01
+    Mesh Name: SM_Prop_Stool_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Streetlight_01
+    Mesh Name: SM_Prop_Streetlight_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_StripClub_Chair_01
+    Mesh Name: SM_Prop_StripClub_Chair_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_StripClub_Curtain_01
+    Mesh Name: SM_Prop_StripClub_Curtain_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Props_StripClub_Curtain
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_StripClub_Pole_01
+    Mesh Name: SM_Prop_StripClub_Pole_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_StripClub_Sofa_01
+    Mesh Name: SM_Prop_StripClub_Sofa_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_StripClub_Stage_01
+    Mesh Name: SM_Prop_StripClub_Stage_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_StripClub_Stage_02
+    Mesh Name: SM_Prop_StripClub_Stage_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_StripClub_Steps_01
+    Mesh Name: SM_Prop_StripClub_Steps_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_StripClub_Table_01
+    Mesh Name: SM_Prop_StripClub_Table_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Supplies_01
+    Mesh Name: SM_Prop_Supplies_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_table_01
+    Mesh Name: SM_Prop_table_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Table_Small_01
+    Mesh Name: SM_Prop_Table_Small_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_TrashBag_01
+    Mesh Name: SM_Prop_TrashBag_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_TrashBag_02
+    Mesh Name: SM_Prop_TrashBag_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_TrashBag_03
+    Mesh Name: SM_Prop_TrashBag_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_TrashCan_01
+    Mesh Name: SM_Prop_TrashCan_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_TrashCan_Lid_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_VendingMachine_01
+    Mesh Name: SM_Prop_VendingMachine_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_VendingMachine_Soda_01
+    Mesh Name: SM_Prop_VendingMachine_Soda_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_VendingMachine_Soda_01_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+
+Prefab Name: SM_Prop_Vent_01
+    Mesh Name: SM_Prop_Vent_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Vent_02
+    Mesh Name: SM_Prop_Vent_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Vent_03
+    Mesh Name: SM_Prop_Vent_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Vent_04
+    Mesh Name: SM_Prop_Vent_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_VRBooth_01
+    Mesh Name: SM_Prop_VRBooth_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_VRHeadset_01
+    Mesh Name: SM_Prop_VRHeadset_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_WallAttach_Electronics_01
+    Mesh Name: SM_Prop_WallAttach_Electronics_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_WallAttach_Electronics_02
+    Mesh Name: SM_Prop_WallAttach_Electronics_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_WallAttach_Electronics_03
+    Mesh Name: SM_Prop_WallAttach_Electronics_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_WallAttach_Electronics_04
+    Mesh Name: SM_Prop_WallAttach_Electronics_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_WallAttach_Electronics_05
+    Mesh Name: SM_Prop_WallAttach_Electronics_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_WallAttach_Electronics_06
+    Mesh Name: SM_Prop_WallAttach_Electronics_06
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_WallAttach_Vent_01
+    Mesh Name: SM_Prop_WallAttach_Vent_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_WallAttach_Vent_02
+    Mesh Name: SM_Prop_WallAttach_Vent_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_WallAttach_Vent_03
+    Mesh Name: SM_Prop_WallAttach_Vent_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_WallAttach_Vent_04
+    Mesh Name: SM_Prop_WallAttach_Vent_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Wall_Prop_01
+    Mesh Name: SM_Prop_Wall_Prop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Wall_Table_01
+    Mesh Name: SM_Prop_Wall_Table_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Watercooler_01
+    Mesh Name: SM_Prop_Watercooler_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Prop_Watercooler_01_Glass
+        Slot: Glass_01_A (No Albedo Texture)
+
+Prefab Name: SM_Prop_Window_01
+    Mesh Name: SM_Prop_Window_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Window_02
+    Mesh Name: SM_Prop_Window_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Window_03
+    Mesh Name: SM_Prop_Window_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Window_Bolts_01
+    Mesh Name: SM_Prop_Window_Bolts_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_Window_Shutter_01
+    Mesh Name: SM_Prop_Window_Shutter_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Prop_WoodenPath_01
+    Mesh Name: SM_Prop_WoodenPath_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+-------------------
+Folder Name: Signs
+-------------------
+Prefab Name: SM_Sign_01
+    Mesh Name: SM_Sign_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_011
+    Mesh Name: SM_Sign_011
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_02
+    Mesh Name: SM_Sign_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_03
+    Mesh Name: SM_Sign_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_04
+    Mesh Name: SM_Sign_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_05
+    Mesh Name: SM_Sign_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_06
+    Mesh Name: SM_Sign_06
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_07
+    Mesh Name: SM_Sign_07
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_08
+    Mesh Name: SM_Sign_08
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_09
+    Mesh Name: SM_Sign_09
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Ad_01
+    Mesh Name: SM_Sign_Ad_01
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_02
+    Mesh Name: SM_Sign_Ad_02
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_03
+    Mesh Name: SM_Sign_Ad_03
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_04
+    Mesh Name: SM_Sign_Ad_04
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_05
+    Mesh Name: SM_Sign_Ad_05
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_06
+    Mesh Name: SM_Sign_Ad_06
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_07
+    Mesh Name: SM_Sign_Ad_07
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_08
+    Mesh Name: SM_Sign_Ad_08
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_09
+    Mesh Name: SM_Sign_Ad_09
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_10
+    Mesh Name: SM_Sign_Ad_10
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_11
+    Mesh Name: SM_Sign_Ad_11
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_12
+    Mesh Name: SM_Sign_Ad_12
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_13
+    Mesh Name: SM_Sign_Ad_13
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_14
+    Mesh Name: SM_Sign_Ad_14
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_15
+    Mesh Name: SM_Sign_Ad_15
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_16
+    Mesh Name: SM_Sign_Ad_16
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_17
+    Mesh Name: SM_Sign_Ad_17
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_18
+    Mesh Name: SM_Sign_Ad_18
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_19
+    Mesh Name: SM_Sign_Ad_19
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_20
+    Mesh Name: SM_Sign_Ad_20
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_21
+    Mesh Name: SM_Sign_Ad_21
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_22
+    Mesh Name: SM_Sign_Ad_22
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_23
+    Mesh Name: SM_Sign_Ad_23
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_24
+    Mesh Name: SM_Sign_Ad_24
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_25
+    Mesh Name: SM_Sign_Ad_25
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_26
+    Mesh Name: SM_Sign_Ad_26
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_27
+    Mesh Name: SM_Sign_Ad_27
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_28
+    Mesh Name: SM_Sign_Ad_28
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_29
+    Mesh Name: SM_Sign_Ad_29
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_30
+    Mesh Name: SM_Sign_Ad_30
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_31
+    Mesh Name: SM_Sign_Ad_31
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Ad_32
+    Mesh Name: SM_Sign_Ad_32
+        Slot: Sign (Signs)
+
+Prefab Name: SM_Sign_Billboard_Attachmentl_01
+    Mesh Name: SM_Sign_Billboard_Attachmentl_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Billboard_Border_01
+    Mesh Name: SM_Sign_Billboard_Border_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Billboard_Border_02
+    Mesh Name: SM_Sign_Billboard_Border_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Billboard_Border_03
+    Mesh Name: SM_Sign_Billboard_Border_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Billboard_Border_04
+    Mesh Name: SM_Sign_Billboard_Border_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Billboard_Border_Tall_01
+    Mesh Name: SM_Sign_Billboard_Border_Tall_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Billboard_Border_Tall_02
+    Mesh Name: SM_Sign_Billboard_Border_Tall_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Billboard_Border_Tall_03
+    Mesh Name: SM_Sign_Billboard_Border_Tall_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Billboard_Border_Tall_04
+    Mesh Name: SM_Sign_Billboard_Border_Tall_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Billboard_Large_01
+    Mesh Name: SM_Sign_Billboard_Large_01
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Sign_Billboard_Large_02
+    Mesh Name: SM_Sign_Billboard_Large_02
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Sign_Billboard_Large_03
+    Mesh Name: SM_Sign_Billboard_Large_03
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Sign_Billboard_Large_04
+    Mesh Name: SM_Sign_Billboard_Large_04
+        Slot: PolygonSciFi_Billboards (Billboards)
+
+Prefab Name: SM_Sign_Neon_01
+    Mesh Name: SM_Sign_Neon_01
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_02
+    Mesh Name: SM_Sign_Neon_02
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_03
+    Mesh Name: SM_Sign_Neon_03
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_04
+    Mesh Name: SM_Sign_Neon_04
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_05
+    Mesh Name: SM_Sign_Neon_05
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_06
+    Mesh Name: SM_Sign_Neon_06
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_07
+    Mesh Name: SM_Sign_Neon_07
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_08
+    Mesh Name: SM_Sign_Neon_08
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_09
+    Mesh Name: SM_Sign_Neon_09
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_Bulb_01
+    Mesh Name: SM_Sign_Neon_Bulb_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Neon_Bulb_02
+    Mesh Name: SM_Sign_Neon_Bulb_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Neon_Bulb_03
+    Mesh Name: SM_Sign_Neon_Bulb_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Neon_Bulb_04
+    Mesh Name: SM_Sign_Neon_Bulb_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Neon_Bulb_05
+    Mesh Name: SM_Sign_Neon_Bulb_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Neon_Bulb_06
+    Mesh Name: SM_Sign_Neon_Bulb_06
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Neon_Bulb_07
+    Mesh Name: SM_Sign_Neon_Bulb_07
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Sign_Neon_Flat_01
+    Mesh Name: SM_Sign_Neon_Flat_01
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_Flat_02
+    Mesh Name: SM_Sign_Neon_Flat_02
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_Flat_03
+    Mesh Name: SM_Sign_Neon_Flat_03
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_Flat_04
+    Mesh Name: SM_Sign_Neon_Flat_04
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_Flat_05
+    Mesh Name: SM_Sign_Neon_Flat_05
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_Flat_06
+    Mesh Name: SM_Sign_Neon_Flat_06
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_Flat_07
+    Mesh Name: SM_Sign_Neon_Flat_07
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_Flat_08
+    Mesh Name: SM_Sign_Neon_Flat_08
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+Prefab Name: SM_Sign_Neon_Flat_09
+    Mesh Name: SM_Sign_Neon_Flat_09
+        Slot: PolygonScifi_NeonSigns (Uses custom shader)
+
+-------------------
+Folder Name: Vehicles
+-------------------
+Prefab Name: SM_Veh_Armored_Truck_01
+    Mesh Name: SM_Veh_Armored_Truck_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_fl
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_fr
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_rl_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_rl_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_rr_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_rr_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_SteeringW_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Armored_Truck_01_Hover
+    Mesh Name: SM_Veh_Armored_Truck_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Glass_Hover
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_fl_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_fr_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_rl_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_rl_02_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_rr_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_01_Wheel_rr_02_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_SteeringW_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Armored_Truck_02
+    Mesh Name: SM_Veh_Armored_Truck_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_fl
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_fr
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_rl_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_rl_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_rr_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_rr_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_SteeringW_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Armored_Truck_02_Hover
+    Mesh Name: SM_Veh_Armored_Truck_02_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Glass_Hover
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_fl_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_fr_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_rl_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_rl_02_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_rr_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_02_Wheel_rr_02_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_SteeringW_02_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Armored_Truck_Cannon_01
+    Mesh Name: SM_Veh_Armored_Truck_Cannon_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Armored_Truck_Cannon_Barrel
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Armored_Truck_Lights_01
+    Mesh Name: SM_Veh_Armored_Truck_Lights_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Classic_01
+    Mesh Name: SM_Veh_Classic_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Classic_01_L_Door
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_L_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Classic_01_R_Door
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_R_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Classic_01_Wheel_fl
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_Wheel_fr
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_Wheel_rl
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_Wheel_rr
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Classic_01_Hover
+    Mesh Name: SM_Veh_Classic_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_Glass_Hover
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Classic_01_L_Door_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_L_Door_Glass_Hover
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Classic_01_R_Door_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_R_Door_Glass_Hover
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Classic_01_SteeringW
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_Wheel_fl_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_Wheel_fr_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_Wheel_rl_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Classic_01_Wheel_rr_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Future_01
+    Mesh Name: SM_Veh_Future_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Future_01_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Future_01SteeringW
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Future_Cop_01
+    Mesh Name: SM_Veh_Future_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Future_Cop_01_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Future_Cop_01SteeringW
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Future_Taxi_01
+    Mesh Name: SM_Veh_Future_Taxi_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Future_Taxi_01_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Future_Taxi_01SteeringW
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Garbage_01
+    Mesh Name: SM_Veh_Garbage_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Garbage_01_SteeringW
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_fl
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_fr
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_rl_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_rl_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_rr_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_rr_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Garbage_01_Hover
+    Mesh Name: SM_Veh_Garbage_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Glass_Hover
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Garbage_01_SteeringW_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_fl_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_fr_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_rl_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_rl_02_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_rr_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Garbage_01_Wheel_rr_02_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Hoverboard_01
+    Mesh Name: SM_Veh_Hoverboard_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Hoverboard_02
+    Mesh Name: SM_Veh_Hoverboard_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Hover_Bike_01
+    Mesh Name: SM_Veh_Hover_Bike_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Hover_Bike_01_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Hover_Bike_01_HandleBars
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Retro_01
+    Mesh Name: SM_Veh_Retro_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_01_Door_L
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_01_Door_L_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Retro_01_Door_R
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_01_Door_R_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Retro_01_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Retro_01_SteeringW
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_01_Wheel_fl
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_01_Wheel_fr
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_01_Wheel_rl
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_01_Wheel_rr
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Retro_01_Hover
+    Mesh Name: SM_Veh_Retro_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_01_Door_L_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_01_Door_L_Glass_Hover
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Retro_01_Door_R_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_01_Door_R_Glass_Hover
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Retro_01_Glass_Hover
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Retro_01_SteeringW_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_Fins_01_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_Hover_01_Wheel_fl_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_Hover_01_Wheel_fr_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_Hover_01_Wheel_rl_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Retro_Hover_01_Wheel_rr_Hover
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Veh_Sweepo_01
+    Mesh Name: SM_Veh_Sweepo_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Sweepo_01_Glass
+        Slot: Glass_Vehicles (No Albedo Texture)
+    Mesh Name: SM_Veh_Sweepo_01_SteeringW
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Sweepo_01_Wheel_fl
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Sweepo_01_Wheel_fr
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Sweepo_01_Wheel_rl
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Sweepo_01_Wheel_rr
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Sweepo_Brush_L
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Veh_Sweepo_Brush_R
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+-------------------
+Folder Name: Weapons
+-------------------
+Prefab Name: SM_Wep_Ammo_Battery_01
+    Mesh Name: SM_Wep_Ammo_Battery_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Ammo_Pistol_01
+    Mesh Name: SM_Wep_Ammo_Pistol_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Ammo_Rifle_01
+    Mesh Name: SM_Wep_Ammo_Rifle_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Ammo_Shotgun_01
+    Mesh Name: SM_Wep_Ammo_Shotgun_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Bipod_01
+    Mesh Name: SM_Wep_Attachment_Bipod_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Attachment_Bipod_Legs_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Foregrip_01
+    Mesh Name: SM_Wep_Attachment_Foregrip_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Foregrip_02
+    Mesh Name: SM_Wep_Attachment_Foregrip_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Handle_01
+    Mesh Name: SM_Wep_Attachment_Handle_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Handle_Scope_01
+    Mesh Name: SM_Wep_Attachment_Handle_Scope_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Handle_Scope_02
+    Mesh Name: SM_Wep_Attachment_Handle_Scope_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Handle_Scope_03
+    Mesh Name: SM_Wep_Attachment_Handle_Scope_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Ironsight_01
+    Mesh Name: SM_Wep_Attachment_Ironsight_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Ironsight_02
+    Mesh Name: SM_Wep_Attachment_Ironsight_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Ironsight_03
+    Mesh Name: SM_Wep_Attachment_Ironsight_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Laser_01
+    Mesh Name: SM_Wep_Attachment_Laser_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Rack_01
+    Mesh Name: SM_Wep_Attachment_Rack_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Rack_02
+    Mesh Name: SM_Wep_Attachment_Rack_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Rack_03
+    Mesh Name: SM_Wep_Attachment_Rack_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Rack_04
+    Mesh Name: SM_Wep_Attachment_Rack_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Redot_01
+    Mesh Name: SM_Wep_Attachment_Redot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Redot_02
+    Mesh Name: SM_Wep_Attachment_Redot_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Redot_03
+    Mesh Name: SM_Wep_Attachment_Redot_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Scope_01
+    Mesh Name: SM_Wep_Attachment_Scope_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Scope_02
+    Mesh Name: SM_Wep_Attachment_Scope_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Silencer_01
+    Mesh Name: SM_Wep_Attachment_Silencer_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Attachment_Silencer_02
+    Mesh Name: SM_Wep_Attachment_Silencer_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Crosshair_01
+    Mesh Name: SM_Wep_Crosshair_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Crosshair_02
+    Mesh Name: SM_Wep_Crosshair_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Crosshair_03
+    Mesh Name: SM_Wep_Crosshair_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Crosshair_04
+    Mesh Name: SM_Wep_Crosshair_04
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Crosshair_05
+    Mesh Name: SM_Wep_Crosshair_05
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Crosshair_Sniper_01
+    Mesh Name: SM_Wep_Crosshair_Sniper_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_DrumMag_01
+    Mesh Name: SM_Wep_DrumMag_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Grenade_Ball_01
+    Mesh Name: SM_Wep_Grenade_Ball_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Grenade_HE_01
+    Mesh Name: SM_Wep_Grenade_HE_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Grenade_HE_01_Clip
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Grenade_HE_01_Pin
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Grenade_Stun_01
+    Mesh Name: SM_Wep_Grenade_Stun_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Grenade_Stun_01_Clip
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Knife_01
+    Mesh Name: SM_Wep_Knife_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_MachinePistol_Gen1_01
+    Mesh Name: SM_Wep_MachinePistol_Gen1_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_MachinePistol_Gen1_ChargeHandle_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_MachinePistol_Gen1_Mag_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_MachinePistol_Gen1_Slide_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_MachinePistol_Gen1_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_MachinePistol_Gen2_01
+    Mesh Name: SM_Wep_MachinePistol_Gen2_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_MachinePistol_Gen2_ChargeHandle_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_MachinePistol_Gen2_Mag_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_MachinePistol_Gen2_Slide_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_MachinePistol_Gen2_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Mag_01
+    Mesh Name: SM_Wep_Mag_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Mag_Plasma_01
+    Mesh Name: SM_Wep_Mag_Plasma_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Mag_Plasma_02
+    Mesh Name: SM_Wep_Mag_Plasma_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Mag_Plasma_03
+    Mesh Name: SM_Wep_Mag_Plasma_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Mag_Round_01
+    Mesh Name: SM_Wep_Mag_Round_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Mag_Round_02
+    Mesh Name: SM_Wep_Mag_Round_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Pistol_01
+    Mesh Name: SM_Wep_Pistol_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Pistol_Slide_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Pistol_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Revolver_01
+    Mesh Name: SM_Wep_Revolver_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Revolver_Cylinder_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Revolver_Hammer_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Revolver_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Rifle_Base_01
+    Mesh Name: SM_Wep_Rifle_Base_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Base_ChargeHandle_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Base_DrumMag_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Base_Mag_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Base_Slide_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Base_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Rifle_Laser_01
+    Mesh Name: SM_Wep_Rifle_Laser_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Laser_Mag_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Laser_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Rifle_Plasma_01
+    Mesh Name: SM_Wep_Rifle_Plasma_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Plasma_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Rifle_Plasma_02
+    Mesh Name: SM_Wep_Rifle_Plasma_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Plasma_Trigger_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Rifle_Plasma_03
+    Mesh Name: SM_Wep_Rifle_Plasma_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Plasma_Trigger_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Rifle_Small_01
+    Mesh Name: SM_Wep_Rifle_Small_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Small_ChargeHandle_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Small_Mag_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Small_Slide_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Rifle_Small_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Shiv_01
+    Mesh Name: SM_Wep_Shiv_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Shotgun_Plasma_01
+    Mesh Name: SM_Wep_Shotgun_Plasma_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Shotgun_Plasma_Pump_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Shotgun_Plasma_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_SMG_01
+    Mesh Name: SM_Wep_SMG_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_SMG_Mag_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_SMG_Stock_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_SMG_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Sniper_01
+    Mesh Name: SM_Wep_Sniper_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Sniper_ChargeHandle_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Sniper_Mag_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Sniper_Scope_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Sniper_Slide_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Sniper_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Sniper_Plasma_02
+    Mesh Name: SM_Wep_Sniper_Plasma_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Sniper_Plasma_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Sniper_Scope_03
+    Mesh Name: SM_Wep_Sniper_Scope_03
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Sword_01
+    Mesh Name: SM_Wep_Sword_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: SM_Wep_Syringe_Gun_01
+    Mesh Name: SM_Wep_Syringe_Gun_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Syringe_Gun_Charge_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: SM_Wep_Syringe_Gun_Trigger_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+-------------------
+Folder Name: FixedScaleCharacters
+-------------------
+Prefab Name: Character_Alien_Male_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Alien_Male_02_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Android_Female_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Augmented_Male_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Cop_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_CyberPunk_Male_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Cyber_Female_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Cyber_Male_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_CyborgNinja_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Garbage_Male_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Hacker_Female_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Hologram_Female_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Junky_Female_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Junky_Male_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Medical_Male_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Monk_Male_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Muscle_Male_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Rich_Female_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Rich_Male_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
+Prefab Name: Character_Robot_01_FixedScale
+    Mesh Name: Character_Alien_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Alien_Male_02
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Android_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Augmented_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cop_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Cyber_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyberPunk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_CyborgNinja_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Garbage_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hacker_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Hologram_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Junky_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Medical_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Monk_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Muscle_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Female_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Rich_Male_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+    Mesh Name: Character_Robot_01
+        Slot: PolygonScifi_01_A (PolygonScifi_01_A)
+
