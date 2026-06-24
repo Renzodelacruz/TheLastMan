@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
-using UnityEngine.InputSystem; // Importante para que Unity reconozca el nuevo sistema
+using UnityEngine.InputSystem; 
 
 [RequireComponent(typeof(CharacterController))]
 public class FPSController : MonoBehaviour
@@ -41,7 +41,7 @@ public class FPSController : MonoBehaviour
     public AudioSource audioSource;
     public AudioClip gunshotSound;
     public AudioClip reloadSound;
-    public AudioClip emptyClickSound;
+    //
 
     [Header("Referencias")]
     public Camera fpsCamera;
@@ -134,7 +134,7 @@ public class FPSController : MonoBehaviour
                 }
                 else if (controls.Gameplay.Shoot.WasPerformedThisFrame())
                 {
-                    PlaySfx(emptyClickSound);
+                    //PSfx
                     ShowWarning("OUT OF AMMO! RELOAD (R)");
                 }
                 nextFireTime = Time.time + fireRate;
@@ -282,10 +282,4 @@ public class FPSController : MonoBehaviour
         if (audioSource && clip) audioSource.PlayOneShot(clip);
     }
 }
-// (pickupSound != null)
-//{
-// AudioSource.PlayClipAtPoint(pickupSound, transform.position);
-//}
 
-//Header("Audio")]
-//[SerializeField] private AudioClip pickupSound;

@@ -67,11 +67,7 @@ public class LeaderboardManager : MonoBehaviour
 
     void Update()
     {
-        // ??? TRUCO DE PRUEBA: Si estás jugando y presionas la tecla K, simula la victoria al instante
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            StopAndShowWinPanel();
-        }
+        // 
 
         // El cronómetro solo avanza si isTimerRunning es verdadero
         if (isTimerRunning)
