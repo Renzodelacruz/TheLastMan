@@ -15,65 +15,66 @@ public class IntroManager : MonoBehaviour
     [SerializeField] private GameObject panelIntro;
     [SerializeField] private Button botonContinuar;
 
-    [Header("Audio (Opcional)")]
+    [Header("Audio de Narración")]
     [SerializeField] private AudioSource audioSource;
-    [SerializeField] private AudioClip sonidoTecla;
+    [SerializeField] private AudioClip narracionCompleta;
 
     private void Start()
     {
-        // Al comenzar, preparamos la escena activando el panel y ocultando el botón
         panelIntro.SetActive(true);
         botonContinuar.gameObject.SetActive(false);
         textoDestino.text = "";
 
-        // Pausamos el juego inmediatamente para congelar físicas y enemigos
         Time.timeScale = 0f;
 
-        // SOLUCIÓN CRÍTICA: Forzamos la liberación del mouse al final del frame para ganarle al FPSController
         StartCoroutine(LiberarMouseConRetraso());
-
-        // Iniciamos el efecto de máquina de escribir
-        StartCoroutine(EfectoEscribir());
+        StartCoroutine(EfectoEscribirYNarrar());
     }
 
     IEnumerator LiberarMouseConRetraso()
     {
-        // Esperamos a que todos los scripts de la escena terminen su Inicialización (Start)
         yield return new WaitForEndOfFrame();
-
-        // Rompemos el bloqueo del FPSController y obligamos al mouse a ser libre y visible
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
     }
 
-    IEnumerator EfectoEscribir()
+    IEnumerator EfectoEscribirYNarrar()
     {
-        // Pequeña espera antes de empezar a escribir en pantalla
         yield return new WaitForSecondsRealtime(0.5f);
+
+        if (audioSource && narracionCompleta)
+        {
+            audioSource.clip = narracionCompleta;
+            audioSource.Play();
+        }
 
         foreach (char letra in mensajeIntro.ToCharArray())
         {
             textoDestino.text += letra;
-
-            // Sonido de teclado si tienes uno asignado en el Inspector
-            if (audioSource && sonidoTecla)
-                audioSource.PlayOneShot(sonidoTecla);
-
-            // Usamos WaitForSecondsRealtime porque el Time.timeScale está en 0
             yield return new WaitForSecondsRealtime(velocidadEscritura);
         }
 
-        // Al terminar de escribir todo el lore de los 3 robots, mostramos el botón para continuar
+        if (audioSource != null)
+        {
+            while (audioSource.isPlaying)
+            {
+                yield return null;
+            }
+        }
+
         botonContinuar.gameObject.SetActive(true);
     }
 
     public void ComenzarJuego()
     {
-        // Quitamos el panel narrativo y reanudamos el tiempo del juego
+        if (audioSource && audioSource.isPlaying)
+        {
+            audioSource.Stop();
+        }
+
         panelIntro.SetActive(false);
         Time.timeScale = 1f;
 
-        // Volvemos a bloquear y esconder el mouse para que funcione el apuntado del shooter
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
 
