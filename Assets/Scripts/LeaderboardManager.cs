@@ -13,7 +13,7 @@ public class LeaderboardManager : MonoBehaviour
     public TextMeshProUGUI timerText;
 
     [Header("UI de Victoria (Win Panel)")]
-    [Tooltip("El panel entero de victoria que se encenderá al ganar")]
+    [Tooltip("El panel entero de victoria que se encenderá al ganar")] 
     public GameObject winPanel;
     [Tooltip("El campo de texto (Input Field) donde el jugador escribe su nombre")]
     public TMP_InputField nameInputField;
@@ -67,7 +67,6 @@ public class LeaderboardManager : MonoBehaviour
 
     void Update()
     {
-        // 
 
         // El cronómetro solo avanza si isTimerRunning es verdadero
         if (isTimerRunning)
@@ -75,6 +74,7 @@ public class LeaderboardManager : MonoBehaviour
             elapsedTime += Time.deltaTime;
             UpdateTimerUI();
         }
+        //
     }
 
     // --- CONTROLES DEL CRONÓMETRO ---

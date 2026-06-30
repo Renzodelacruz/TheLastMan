@@ -31,7 +31,7 @@ Material:
     m_Floats:
     - _FlickerSpeed: 3.94
     - _GlitchStrength: 0.35
-    - _Madness: 0.006826957
+    - _Madness: 0
     m_Colors:
     - _FaceColor: {r: 0.03773582, g: 0.03773582, b: 0.03773582, a: 1}
   m_BuildTextureStacks: []
