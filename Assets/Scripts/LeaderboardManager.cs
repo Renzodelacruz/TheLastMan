@@ -13,7 +13,7 @@ public class LeaderboardManager : MonoBehaviour
     public TextMeshProUGUI timerText;
 
     [Header("UI de Victoria (Win Panel)")]
-    [Tooltip("El panel entero de victoria que se encenderá al ganar")] 
+    [Tooltip("El panel entero de victoria que se encenderá al ganar")]
     public GameObject winPanel;
     [Tooltip("El campo de texto (Input Field) donde el jugador escribe su nombre")]
     public TMP_InputField nameInputField;
@@ -38,7 +38,7 @@ public class LeaderboardManager : MonoBehaviour
 
     void Awake()
     {
-        // Configuración del Singleton
+        // Configuración del Singleton centralizado
         if (Instance == null)
         {
             Instance = this;
@@ -55,11 +55,11 @@ public class LeaderboardManager : MonoBehaviour
         if (winPanel != null)
             winPanel.SetActive(false);
 
-        // ?? ASEGURAR QUE EL JUGADOR COMIENCE CON EL RATÓN BLOQUEADO PARA MOVER LA CÁMARA
+        // Garantiza el correcto anclaje del puntero al arrancar la escena
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
 
-        // Nos aseguramos de que el tiempo corra normalmente por si venimos de un menú pausado
+        // Nos aseguramos de que el tiempo corra normalmente por si venimos de un menú congelado
         Time.timeScale = 1f;
 
         UpdateTimerUI();
@@ -67,14 +67,14 @@ public class LeaderboardManager : MonoBehaviour
 
     void Update()
     {
-
         // El cronómetro solo avanza si isTimerRunning es verdadero
         if (isTimerRunning)
         {
             elapsedTime += Time.deltaTime;
             UpdateTimerUI();
         }
-        //
+
+        
     }
 
     // --- CONTROLES DEL CRONÓMETRO ---
@@ -107,7 +107,11 @@ public class LeaderboardManager : MonoBehaviour
                 currentScoreText.text = "Your Time: " + FormatTime(elapsedTime);
             }
 
-            // ?? LIBERAR EL MOUSE ÚNICAMENTE PARA LA UI DE VICTORIA
+            // CORRECCIÓN ORGÁNICA: Congelamos el tiempo del motor para detener la simulación.
+            // Esto permite que el FPSController se detenga pacíficamente por sus filtros internos.
+            Time.timeScale = 0f;
+
+            // LIBERAR EL MOUSE ÚNICAMENTE PARA LA UI DE VICTORIA
             Cursor.lockState = CursorLockMode.None; // Desbloquea el ratón del centro de la pantalla
             Cursor.visible = true;                  // Hace que el cursor sea visible
         }
@@ -133,7 +137,7 @@ public class LeaderboardManager : MonoBehaviour
 
     // --- SISTEMA DE ALMACENAMIENTO (BASE DE DATOS LOCAL) ---
 
-    // Esta función la debe ejecutar el botón "Submit" de tu Panel de Victoria
+    
     public void SubmitRecord()
     {
         // Si el jugador no escribió nada, le asignamos "Anonymous" por defecto
