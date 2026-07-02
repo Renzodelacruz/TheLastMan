@@ -41,7 +41,7 @@ public class FPSController : MonoBehaviour
     public AudioSource audioSource;
     public AudioClip gunshotSound;
     public AudioClip reloadSound;
-    //
+    public AudioClip emptySound;
 
     [Header("Referencias")]
     public Camera fpsCamera;
@@ -134,7 +134,7 @@ public class FPSController : MonoBehaviour
                 }
                 else if (controls.Gameplay.Shoot.WasPerformedThisFrame())
                 {
-                    
+                    PlaySfx(emptySound); 
                     ShowWarning("OUT OF AMMO! RELOAD (R)");
                 }
                 nextFireTime = Time.time + fireRate;

@@ -74,7 +74,14 @@ public class LeaderboardManager : MonoBehaviour
             UpdateTimerUI();
         }
 
-        
+        if (Input.GetKeyDown(KeyCode.K))
+        {
+            StopAndShowWinPanel();
+        }
+
+
+
+
     }
 
     // --- CONTROLES DEL CRONÓMETRO ---

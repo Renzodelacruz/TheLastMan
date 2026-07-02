@@ -19,4 +19,9 @@ public void Options()
     {
         Application.Quit();
     }
+
+    public void Records()
+    {
+        SceneManager.LoadScene("Records");
+    }
 }

@@ -14,10 +14,10 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 10
-  m_Fog: 0
+  m_Fog: 1
   m_FogColor: {r: 0.6603774, g: 0.3270737, b: 0.3655709, a: 1}
   m_FogMode: 3
-  m_FogDensity: 0.09
+  m_FogDensity: 0.053
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
   m_AmbientSkyColor: {r: 0.8160377, g: 0.8773585, b: 1, a: 1}
@@ -5484,6 +5484,75 @@ Transform:
   - {fileID: 1113786905}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &171033336
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 50.58
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.55
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.11
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5081468
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.8612704
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -118.919
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      propertyPath: m_Name
+      value: Survivor (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1600276892}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1600276891}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1600276890}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1600276889}
+  m_SourcePrefab: {fileID: 100100000, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
 --- !u!1 &172425848
 GameObject:
   m_ObjectHideFlags: 0
@@ -10298,7 +10367,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mensajeIntro: "\"The world as we knew it has fallen. The streets are crawling with
     the undead, and we are the only ones left standing.\n\nYour mission is critical:
-    scour the map to locate the 3 lost robots. These synthetics\u2014disguised in
+    scour the map to locate the 4 lost robots. These synthetics\u2014disguised in
     alien forms\u2014protect the vital seeds and DNA required to rebuild human life.\n\nFind
     them, secure them, and escort them to the Safe Zone in the shortest time possible.
     The future of humanity rests in your hands.\""
@@ -10307,7 +10376,7 @@ MonoBehaviour:
   panelIntro: {fileID: 277451889}
   botonContinuar: {fileID: 1638682829}
   audioSource: {fileID: 215661474}
-  narracionCompleta: {fileID: 8300000, guid: f64e3199961fde54f967809dbf2d8000, type: 3}
+  narracionCompleta: {fileID: 8300000, guid: 98cae5c3e8c90464cb5ca65a9ea07d01, type: 3}
 --- !u!4 &296776525
 Transform:
   m_ObjectHideFlags: 0
@@ -13122,7 +13191,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zoneColor: {r: 0.0047169924, g: 1, b: 0.0047169924, a: 1}
-  survivorsRequired: 3
+  survivorsRequired: 4
   counterText: {fileID: 1812962833}
 --- !u!65 &397373647
 BoxCollider:
@@ -18377,6 +18446,7 @@ MonoBehaviour:
   audioSource: {fileID: 551737472}
   gunshotSound: {fileID: 8300000, guid: 7703c8fb6855e934fa9dfe222f5b07a6, type: 3}
   reloadSound: {fileID: 8300000, guid: e9c50f5cbd8702d4ea8da4abfd993764, type: 3}
+  emptySound: {fileID: 8300000, guid: bac2527390ad4e3488a994fab69909a2, type: 3}
   fpsCamera: {fileID: 330585545}
 --- !u!136 &551737465
 CapsuleCollider:
@@ -53612,6 +53682,102 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1595715960}
   m_Mesh: {fileID: -5541482316587357150, guid: bc3b06c902511ed47bb5989cc6c89db3, type: 3}
+--- !u!1 &1600276888 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+  m_PrefabInstance: {fileID: 171033336}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1600276889
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1600276888}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 994a8f53aeadead4e94f532cadec2e5b, type: 3}
+  m_Controller: {fileID: 9100000, guid: c4888a966e3f69f4eb563d10038f1ae5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!54 &1600276890
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1600276888}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &1600276891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1600276888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bf61429a4c2a9545b74677b16fe4785, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  followDistance: 3
+  isRescued: 0
+  wanderSpeed: 3.2
+  rescueTextUI: {fileID: 406672473}
+  messageDuration: 3
+  audioSource: {fileID: 215661474}
+  sonidoRescate: {fileID: 8300000, guid: 0f5fe63d1c8b92d429f8d76a5aa5a5ff, type: 3}
+--- !u!195 &1600276892
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1600276888}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
 --- !u!1 &1600680036
 GameObject:
   m_ObjectHideFlags: 0
@@ -260217,7 +260383,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8955204498305438051}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
   m_Name: 
@@ -268648,6 +268814,7 @@ SceneRoots:
   - {fileID: 1148792025}
   - {fileID: 313170615}
   - {fileID: 1033122816}
+  - {fileID: 171033336}
   - {fileID: 190952219}
   - {fileID: 456045420}
   - {fileID: 8578398138023906265}
