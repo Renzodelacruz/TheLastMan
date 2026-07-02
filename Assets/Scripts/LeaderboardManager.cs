@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement; // Necesario para cambiar de escena al pulsar
 
 public class LeaderboardManager : MonoBehaviour
 {
-    // Singleton para acceder fácilmente a este script desde cualquier otro (ej: desde la SafeZone)
+    
     public static LeaderboardManager Instance;
 
     [Header("UI del Cronómetro")]

@@ -134,7 +134,7 @@ public class FPSController : MonoBehaviour
                 }
                 else if (controls.Gameplay.Shoot.WasPerformedThisFrame())
                 {
-                    //PSfx
+                    
                     ShowWarning("OUT OF AMMO! RELOAD (R)");
                 }
                 nextFireTime = Time.time + fireRate;
