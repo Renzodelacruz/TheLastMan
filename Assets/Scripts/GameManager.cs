@@ -60,4 +60,11 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
+
+    // NUEVA FUNCIÓN PARA EL BOTÓN DEL MENÚ
+    public void MainMenu()
+    {
+        // NOTA: Reemplaza "MainMenu" con el nombre exacto de tu escena del menú
+        SceneManager.LoadScene("MainMenu");
+    }
 }
